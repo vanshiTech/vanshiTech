@@ -3,7 +3,7 @@
 
 ## Vanshika Bisht
 
-#### Tech Enthusiast
+#### Learning enthusiast
 
 
 
@@ -15,11 +15,15 @@
 AI/ML, Neural Network and Cybersecurity. Exploring Neuroscience and Cosmology on the side.
 
 ### 🌱What I'm Doing Right Now
-• taking CS50X course
 
-• revising Python 
+• taking Computer Science course.
 
-• trying to solve leetcode problems
+• revising Python.
+
+• Strengthening maths.
+
+• learning Spanish.
+
 
 
 
