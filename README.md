@@ -12,7 +12,7 @@
 </div>   
 
 ### 💡Interests
-AI/ML and cybersecurity. Exploring Neuroscience on the side.
+AI/ML, Neural Network and Cybersecurity. Exploring Neuroscience and Cosmology on the side.
 
 ### 🌱What I'm Doing Right Now
 • taking CS50X course
